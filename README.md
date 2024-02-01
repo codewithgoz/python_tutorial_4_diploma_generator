@@ -1,9 +1,9 @@
 <!-- ABOUT THE PROJECT -->
 # Scripts para crear códigos qr con Python
 
-[![Product Name Screen Shot][product-screenshot]](https://codewithgoz/tutorials/4)
+[![Product Name Screen Shot][product-screenshot]](https://codewithgoz.com/tutorials/4)
 
-<p align="center"><a href="https://codewithgoz/tutorials/4">VER VIDEO</a></p>
+<p align="center"><a href="https://codewithgoz.com/tutorials/4">VER VIDEO</a></p>
 
 En este repositorio encontrarás:
 
